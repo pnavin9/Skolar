@@ -13,6 +13,14 @@ Welcome to nskolar, a state-of-the-art subscription-based course streaming platf
 - **Secure Authentication**: Rest assured that your account is protected with JWT (JSON Web Tokens) authentication, ensuring secure access to nskolar's extensive course catalog.
 - **Enhanced User Experience**: By utilizing cookie storage, we ensure a smoother user experience, maintaining login sessions and personalization throughout your learning journey.
 
+## Demo
+
+![image](https://github.com/pnavin9/Skolar/assets/106406724/e833d79d-4b6d-4588-a233-2562b2275d83)
+![image](https://github.com/pnavin9/Skolar/assets/106406724/842d141d-b51e-436b-a80e-d086acdf5bf6)
+![image](https://github.com/pnavin9/Skolar/assets/106406724/4fc21daa-b6ca-4d0f-8716-1ebff9d75e99)
+![image](https://github.com/pnavin9/Skolar/assets/106406724/81eb66fe-8a77-4941-ad28-215da39f82a7)
+
+
 ## Get Started
 
 To explore nskolar and unlock a world of knowledge, follow these steps:
